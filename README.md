@@ -7,6 +7,8 @@ This project I focused on doing an exploratory data analysis on Maven Toys data.
 - Pandas
 - Jupyter Notebooks
 - Plotly
+- Re
+- Numpy
 
 
 
